@@ -705,6 +705,11 @@
         "filename": "RobotPCB.kicad_sch",
         "name": "RobotPCB",
         "uuid": "9538e4ed-27e6-4c37-b989-9859dc0d49e8"
+      },
+      {
+        "filename": "harnesses.kicad_sch",
+        "name": "Harnesses",
+        "uuid": "9cf9b218-94ac-45df-b250-36ff14ff5f81"
       }
     ],
     "used_designators": "#FLG1-2,#PWR1-14,C1-6,J1-12,J1_J4,Q1,R1-3",
@@ -714,6 +719,10 @@
     [
       "9538e4ed-27e6-4c37-b989-9859dc0d49e8",
       "RobotPCB"
+    ],
+    [
+      "9cf9b218-94ac-45df-b250-36ff14ff5f81",
+      "Harnesses"
     ]
   ],
   "text_variables": {},
